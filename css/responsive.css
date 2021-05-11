@@ -68,6 +68,14 @@
     margin: 20px;
     display: inline-block;
   }
+  /*skills*/
+  #skills .div-img-bg {
+    padding: 0;
+  }
+  #skills .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
+  }
   /* journal */
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
@@ -138,6 +146,14 @@
     float: none;
     margin: 20px;
     display: inline-block;
+  }
+  /*skills*/
+  #skills .div-img-bg {
+    padding: 0;
+  }
+  #skills .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
   }
   /* journal */
   #journal .journal-block .journal-info {
@@ -210,6 +226,14 @@
     margin: 10px;
     display: inline-block;
   }
+  /*skills*/
+  #skills .div-img-bg {
+    padding: 0;
+  }
+  #skills .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
+  }
   /* journal */
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
@@ -280,6 +304,14 @@
     float: none;
     margin: 20px;
   }
+  /*skills*/
+  #skills .div-img-bg {
+    padding: 0;
+  }
+  #skills .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
+  }
   /* journal */
   #journal .journal-block .journal-info {
     margin-bottom: 30px;
@@ -349,6 +381,14 @@
   #portfolio .portfolio-list .nav li {
     float: none;
     margin: 20px;
+  }
+  /*skills*/
+  #skills .div-img-bg {
+    padding: 0;
+  }
+  #skills .div-img-bg .about-img img {
+    margin-top: 0%;
+    margin-left: calc(0% - 0px);
   }
   /* journal */
   #journal .journal-block .journal-info {
